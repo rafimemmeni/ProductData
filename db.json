@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "categoryName": "Pizza",
+    "items": [
+      {
+        "id": 100,
+        "itemName": "Meat Pizza",
+        "price": "3"
+      },
+      {
+        "id": 101,
+        "itemName": "Veg Pizza",
+        "price": "1"
+      },
+      {
+        "id": 102,
+        "itemName": "Family Pizza",
+        "price": "5"
+      },
+      {
+        "id": 103,
+        "itemName": "Meat Pizza",
+        "price": "3"
+      },
+      {
+        "id": 104,
+        "itemName": "Meat Pizza",
+        "price": "3"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "categoryName": "Fish",
+    "items": [
+      {
+        "id": 100,
+        "itemName": "Fish Fry",
+        "price": "5"
+      },
+      {
+        "id": 101,
+        "itemName": "Fish Fry",
+        "price": "3"
+      },
+      {
+        "id": 102,
+        "itemName": "Fish Fry",
+        "price": "3"
+      },
+      {
+        "id": 103,
+        "itemName": "Fish Fry",
+        "price": "3"
+      },
+      {
+        "id": 104,
+        "itemName": "Fish Fry",
+        "price": "3"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "categoryName": "Soap",
+    "items": [
+      {
+        "id": 300,
+        "itemName": "Veg Soap",
+        "price": "5"
+      },
+      {
+        "id": 301,
+        "itemName": "Chicken Soap",
+        "price": "13"
+      },
+      {
+        "id": 302,
+        "itemName": "Beef Soap",
+        "price": "10"
+      },
+      {
+        "id": 303,
+        "itemName": "Veg Soap",
+        "price": "7"
+      },
+      {
+        "id": 304,
+        "itemName": "Veg Soap",
+        "price": "8"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "categoryName": "Pizza",
+    "items": [
+      {
+        "id": 400,
+        "itemName": "Meat Pizza",
+        "price": "3"
+      },
+      {
+        "id": 401,
+        "itemName": "Veg Pizza",
+        "price": "1"
+      },
+      {
+        "id": 402,
+        "itemName": "Family Pizza",
+        "price": "5"
+      },
+      {
+        "id": 403,
+        "itemName": "Meat Pizza",
+        "price": "3"
+      },
+      {
+        "id": 404,
+        "itemName": "Meat Pizza",
+        "price": "3"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "categoryName": "Pizza",
+    "items": [
+      {
+        "id": 500,
+        "itemName": "Meat Pizza",
+        "price": "3"
+      },
+      {
+        "id": 501,
+        "itemName": "Veg Pizza",
+        "price": "1"
+      },
+      {
+        "id": 502,
+        "itemName": "Family Pizza",
+        "price": "5"
+      },
+      {
+        "id": 503,
+        "itemName": "Meat Pizza",
+        "price": "3"
+      },
+      {
+        "id": 504,
+        "itemName": "Meat Pizza",
+        "price": "3"
+      }
+    ]
+  }
+]
